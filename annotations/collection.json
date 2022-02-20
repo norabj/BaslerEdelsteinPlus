@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://norabj.github.io/BaslerEdelsteinPlus/annotations/3d059d5bae12777b450cc7c13eb09156.json" ],
+  "otherContent" : [ "https://norabj.github.io/BaslerEdelsteinPlus/annotations/3d059d5bae12777b450cc7c13eb09156.json", "https://norabj.github.io/BaslerEdelsteinPlus/annotations/6bf7d9d7030d440d84dba296f75a047a.json" ],
   "@id" : "https://norabj.github.io/BaslerEdelsteinPlus/annotations/collection.json",
   "label" : "All annotations loaded in norabj/BaslerEdelsteinPlus project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
