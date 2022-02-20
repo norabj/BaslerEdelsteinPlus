@@ -1,0 +1,88 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Initiale",
+      "@type" : "oa:Tag",
+      "chars" : "Initiale"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Initiale:e",
+      "@type" : "oa:Tag",
+      "chars" : "Initiale:e"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Initiale &lt;<a title=\"Initiale &lt;GND&gt;\" href=\"https://portal.dnb.de/opac.htm?method=simpleSearch&amp;cqlMode=true&amp;query=nid%3D4027011-7\" target=\"_blank\" rel=\"noopener\">GND&gt;:e",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Initiale &lt;<a title=\"Initiale &lt;GND&gt;\" href=\"https://portal.dnb.de/opac.htm?method=simpleSearch&amp;cqlMode=true&amp;query=nid%3D4027011-7\" target=\"_blank\" rel=\"noopener\">GND</a>&gt;:e</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/99589779",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-20T14:52:03",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645368723272",
+    "dcterms:modified" : "2022-02-20T14:52:03",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://www.e-manuscripta.ch/bau/i3f/v20/3310314/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=491,363,1173,995"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M491.23462,363.39367h586.56678v0h586.56678v497.56063v497.56063h-586.56678h-586.56678v-497.56063z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_68f53464-1f35-4445-8981-5d852cf2b918\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffffff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://www.e-manuscripta.ch/bau/i3f/v20/3310314/canvas/3310368"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Kalligraphie",
+      "@type" : "oa:Tag",
+      "chars" : "Kalligraphie"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "lateinisch",
+      "@type" : "oa:Tag",
+      "chars" : "lateinisch"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Kalligraphie &lt;<a title=\"Kalligraphie &lt;GND&gt;\" href=\"https://portal.dnb.de/opac.htm?method=simpleSearch&amp;cqlMode=true&amp;query=nid%3D4073168-6\" target=\"_blank\" rel=\"noopener\">GND&gt;: Metiri se quemque decet priusque iuuari / [Laudibus, alterius nec bona ferre sibi.] (Jeder messe sich selbst und erfreu sich am eigenen Lobspruch, / [doch eines andern Talent, schreib er sich selbst nicht zugut.])",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Kalligraphie &lt;<a title=\"Kalligraphie &lt;GND&gt;\" href=\"https://portal.dnb.de/opac.htm?method=simpleSearch&amp;cqlMode=true&amp;query=nid%3D4073168-6\" target=\"_blank\" rel=\"noopener\">GND</a>&gt;: Metiri se quemque decet priusque iuuari / [Laudibus, alterius nec bona ferre sibi.] (Jeder messe sich selbst und erfreu sich am eigenen Lobspruch, / [doch eines andern Talent, schreib er sich selbst nicht zugut.])</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/99589779",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-20T14:54:56",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645368896594",
+    "dcterms:modified" : "2022-02-20T14:54:56",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://www.e-manuscripta.ch/bau/i3f/v20/3310314/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=653,3901,2672,414"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M652.94903,3901.41301h1336.09227v0h1336.09227v207.11951v207.11951h-1336.09227h-1336.09227v-207.11951z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_d1630717-aeb8-4c71-bda2-f7bd80782cb5\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffffff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://www.e-manuscripta.ch/bau/i3f/v20/3310314/canvas/3310368"
+    } ]
+  } ],
+  "@id" : "https://norabj.github.io/BaslerEdelsteinPlus/annotations/54a1013f3ef8d03cfe6663bc59e83e28.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
