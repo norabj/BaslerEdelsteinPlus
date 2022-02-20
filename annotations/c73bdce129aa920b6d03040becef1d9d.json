@@ -1,0 +1,227 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Fuchs",
+      "@type" : "oa:Tag",
+      "chars" : "Fuchs"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Tier",
+      "@type" : "oa:Tag",
+      "chars" : "Tier"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Fuchs",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Fuchs</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/99589779",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-20T13:54:31",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645365271767",
+    "dcterms:modified" : "2022-02-20T13:54:31",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://www.e-manuscripta.ch/bau/i3f/v20/3310314/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2543,2372,1251,677"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2543.45186,2371.80329h625.29823v0h625.29823v338.4585v338.4585h-625.29823h-625.29823v-338.4585z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_c11d4af1-ed19-4e0b-823d-d23f8ebd497a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://www.e-manuscripta.ch/bau/i3f/v20/3310314/canvas/3310422"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Nest",
+      "@type" : "oa:Tag",
+      "chars" : "Nest"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Vogel",
+      "@type" : "oa:Tag",
+      "chars" : "Vogel"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Adlernest",
+      "@type" : "oa:Tag",
+      "chars" : "Adlernest"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Adler",
+      "@type" : "oa:Tag",
+      "chars" : "Adler"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Adlernest",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Adlernest</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/99589779",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-20T13:55:49",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645365349947",
+    "dcterms:modified" : "2022-02-20T13:55:49",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://www.e-manuscripta.ch/bau/i3f/v20/3310314/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2031,1596,508,333"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2030.51494,1595.64873h254.09388v0h254.09388v166.35467v166.35467h-254.09388h-254.09388v-166.35467z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_673d4087-135b-4c09-be6c-97be04fa2802\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://www.e-manuscripta.ch/bau/i3f/v20/3310314/canvas/3310422"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Initiale",
+      "@type" : "oa:Tag",
+      "chars" : "Initiale"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Initiale:e",
+      "@type" : "oa:Tag",
+      "chars" : "Initiale:e"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Initiale &lt;<a title=\"Initiale &lt;GND&gt;\" href=\"https://portal.dnb.de/opac.htm?method=simpleSearch&amp;cqlMode=true&amp;query=nid%3D4027011-7\" target=\"_blank\" rel=\"noopener\">GND&gt;: e",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Initiale &lt;<a title=\"Initiale &lt;GND&gt;\" href=\"https://portal.dnb.de/opac.htm?method=simpleSearch&amp;cqlMode=true&amp;query=nid%3D4027011-7\" target=\"_blank\" rel=\"noopener\">GND</a>&gt;: e</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/99589779",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-20T13:53:18",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645365198283",
+    "dcterms:modified" : "2022-02-20T13:53:18",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://www.e-manuscripta.ch/bau/i3f/v20/3310314/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=640,2912,1068,947"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M640.1859,2911.73689h534.18444v0h534.18444v473.44191v473.44191h-534.18444h-534.18444v-473.44191z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_7cda0d60-ca0f-4f5b-8fa3-e2b591fcd976\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffffff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://www.e-manuscripta.ch/bau/i3f/v20/3310314/canvas/3310422"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Feuer",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Feuer</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Feuer",
+      "@type" : "oa:Tag",
+      "chars" : "Feuer"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Brand",
+      "@type" : "oa:Tag",
+      "chars" : "Brand"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Brandstiftung",
+      "@type" : "oa:Tag",
+      "chars" : "Brandstiftung"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/99589779",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-20T13:56:14",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645365374065",
+    "dcterms:modified" : "2022-02-20T13:56:45",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://www.e-manuscripta.ch/bau/i3f/v20/3310314/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2323,2529,67,101"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2356.4751,2630.27175c0,-22.49723 11.24862,-44.99447 33.74585,-67.4917c0,-18.63732 -15.10853,-33.74585 -33.74585,-33.74585c-18.63732,0 -33.74585,15.10853 -33.74585,33.74585c22.49723,22.49723 33.74585,44.99447 33.74585,67.4917z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"pin_8897569a-34f3-4d62-944d-fe9d04645932\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"40.49502\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://www.e-manuscripta.ch/bau/i3f/v20/3310314/canvas/3310422"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Adler",
+      "@type" : "oa:Tag",
+      "chars" : "Adler"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Tier",
+      "@type" : "oa:Tag",
+      "chars" : "Tier"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Vogel",
+      "@type" : "oa:Tag",
+      "chars" : "Vogel"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Adler",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Adler</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/99589779",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-20T13:55:04",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645365304063",
+    "dcterms:modified" : "2022-02-20T13:55:04",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://www.e-manuscripta.ch/bau/i3f/v20/3310314/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1140,1393,940,839"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1139.62449,1393.17362h470.06732v0h470.06732v419.44855v419.44855h-470.06732h-470.06732v-419.44855z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_0d5bcbe1-ca97-49d7-a9e9-0753c2f1c99a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://www.e-manuscripta.ch/bau/i3f/v20/3310314/canvas/3310422"
+    } ]
+  } ],
+  "@id" : "https://norabj.github.io/BaslerEdelsteinPlus/annotations/c73bdce129aa920b6d03040becef1d9d.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
