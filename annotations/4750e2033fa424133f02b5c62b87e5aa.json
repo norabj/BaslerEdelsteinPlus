@@ -1,0 +1,47 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Kalligraphie",
+      "@type" : "oa:Tag",
+      "chars" : "Kalligraphie"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "lateinisch",
+      "@type" : "oa:Tag",
+      "chars" : "lateinisch"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Kalligraphie &lt;<a title=\"Kalligraphie &lt;GND&gt;\" href=\"https://portal.dnb.de/opac.htm?method=simpleSearch&amp;cqlMode=true&amp;query=nid%3D4073168-6\" target=\"_blank\" rel=\"noopener\">GND&gt;: Parisius ibis bos hic, bos inde redibis. / Ardea fert secum, quocumque uolauerit, anum. (Geh nach Paris du Ochse, du wirst auch als Ochse zur&uuml;ck sein. / Wohin der Reiher auch fliegt, er f&uuml;hrt den kackenden Arsch mit.)",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Kalligraphie &lt;<a title=\"Kalligraphie &lt;GND&gt;\" href=\"https://portal.dnb.de/opac.htm?method=simpleSearch&amp;cqlMode=true&amp;query=nid%3D4073168-6\" target=\"_blank\" rel=\"noopener\">GND</a>&gt;: Parisius ibis bos hic, bos inde redibis. / Ardea fert secum, quocumque uolauerit, anum. (Geh nach Paris du Ochse, du wirst auch als Ochse zur&uuml;ck sein. / Wohin der Reiher auch fliegt, er f&uuml;hrt den kackenden Arsch mit.)</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/99589779",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-20T15:25:39",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645370739159",
+    "dcterms:modified" : "2022-02-20T15:25:39",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://www.e-manuscripta.ch/bau/i3f/v20/3310314/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=160,3587,3222,610"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M160.0727,3586.65623h1610.82804v0h1610.82804v304.80023v304.80023h-1610.82804h-1610.82804v-304.80023z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_be49c008-1444-44be-be64-b519623836fc\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffffff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://www.e-manuscripta.ch/bau/i3f/v20/3310314/canvas/3310409"
+    } ]
+  } ],
+  "@id" : "https://norabj.github.io/BaslerEdelsteinPlus/annotations/4750e2033fa424133f02b5c62b87e5aa.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
