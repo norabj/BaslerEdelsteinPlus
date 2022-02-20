@@ -1,0 +1,148 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Illustration",
+      "@type" : "oa:Tag",
+      "chars" : "Illustration"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Einzelminiatur",
+      "@type" : "oa:Tag",
+      "chars" : "Einzelminiatur"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Schlange",
+      "@type" : "oa:Tag",
+      "chars" : "Schlange"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Mann",
+      "@type" : "oa:Tag",
+      "chars" : "Mann"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Haus",
+      "@type" : "oa:Tag",
+      "chars" : "Haus"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Verletzung",
+      "@type" : "oa:Tag",
+      "chars" : "Verletzung"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Banner",
+      "@type" : "oa:Tag",
+      "chars" : "Banner"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "rot",
+      "@type" : "oa:Tag",
+      "chars" : "rot"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "braun",
+      "@type" : "oa:Tag",
+      "chars" : "braun"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "grün",
+      "@type" : "oa:Tag",
+      "chars" : "grün"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Kleidung",
+      "@type" : "oa:Tag",
+      "chars" : "Kleidung"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Dach",
+      "@type" : "oa:Tag",
+      "chars" : "Dach"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Fenster",
+      "@type" : "oa:Tag",
+      "chars" : "Fenster"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Die verwundete Schlange",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Die verwundete Schlange</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/99589779",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-17T13:25:57",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645104357016",
+    "dcterms:modified" : "2022-02-17T13:25:57",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://www.e-manuscripta.ch/bau/i3f/v20/3310314/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=340,491,3158,1933"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3498.2232,2423.9174h-1579.20299v0h-1579.20299v-966.53515v-966.53515h1579.20299h1579.20299v966.53515z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_ce3c45b6-504b-47e3-9969-6ed118fa629f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://www.e-manuscripta.ch/bau/i3f/v20/3310314/canvas/3310325"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Schlange",
+      "@type" : "oa:Tag",
+      "chars" : "Schlange"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Verletzung",
+      "@type" : "oa:Tag",
+      "chars" : "Verletzung"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "grün",
+      "@type" : "oa:Tag",
+      "chars" : "grün"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Einzelmotiv",
+      "@type" : "oa:Tag",
+      "chars" : "Einzelmotiv"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Tier",
+      "@type" : "oa:Tag",
+      "chars" : "Tier"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Kriechtier",
+      "@type" : "oa:Tag",
+      "chars" : "Kriechtier"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Verwundete Schlange",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Verwundete Schlange</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/99589779",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-17T13:26:34",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645104394775",
+    "dcterms:modified" : "2022-02-17T13:26:34",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://www.e-manuscripta.ch/bau/i3f/v20/3310314/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2243,1395,1050,804"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2242.78735,1395.02636h524.88489v0h524.88489v402.17311v402.17311h-524.88489h-524.88489v-402.17311z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_b47d88d8-e5c6-4da1-922f-dbaa10f006d5\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://www.e-manuscripta.ch/bau/i3f/v20/3310314/canvas/3310325"
+    } ]
+  } ],
+  "@id" : "https://norabj.github.io/BaslerEdelsteinPlus/annotations/b6efa3814741717d2a182449be833a90.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
