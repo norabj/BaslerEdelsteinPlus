@@ -1,0 +1,47 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Kalligraphie &lt;<a title=\"Kalligraphie &lt;GND&gt;\" href=\"https://portal.dnb.de/opac.htm?method=simpleSearch&amp;cqlMode=true&amp;query=nid%3D4073168-6\" target=\"_blank\" rel=\"noopener\">GND&gt;: Tu qui summa potes, ne despice parua potenti, / Nam prodesse potest, si quis obesse nequit. (Du mit der gr&ouml;ssten Macht, veracht&rsquo; nicht, wer wenig zustand bringt, / n&uuml;tzen kann n&auml;mlich der, wenn er nicht sch&auml;dlich kann sein.)",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Kalligraphie &lt;<a title=\"Kalligraphie &lt;GND&gt;\" href=\"https://portal.dnb.de/opac.htm?method=simpleSearch&amp;cqlMode=true&amp;query=nid%3D4073168-6\" target=\"_blank\" rel=\"noopener\">GND</a>&gt;: Tu qui summa potes, ne despice parua potenti, / Nam prodesse potest, si quis obesse nequit. (Du mit der gr&ouml;ssten Macht, veracht&rsquo; nicht, wer wenig zustand bringt, / n&uuml;tzen kann n&auml;mlich der, wenn er nicht sch&auml;dlich kann sein.)</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Kalligraphie",
+      "@type" : "oa:Tag",
+      "chars" : "Kalligraphie"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "lateinisch",
+      "@type" : "oa:Tag",
+      "chars" : "lateinisch"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/99589779",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-20T14:06:58",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645366018826",
+    "dcterms:modified" : "2022-02-20T14:07:40",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://www.e-manuscripta.ch/bau/i3f/v20/3310314/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=702,1770,3032,478"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M702.13181,1770.06678h1515.83128v0h1515.83128v239.18102v239.18102h-1515.83128h-1515.83128v-239.18102z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,1,1],&quot;editable&quot;:true}\" id=\"rectangle_00a53233-e157-4c80-bff8-fbc2da29bef3\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffffff\" stroke-width=\"57.16344\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://www.e-manuscripta.ch/bau/i3f/v20/3310314/canvas/3310430"
+    } ]
+  } ],
+  "@id" : "https://norabj.github.io/BaslerEdelsteinPlus/annotations/24a3b4d8d807a7964bf17952e6a826b0.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
