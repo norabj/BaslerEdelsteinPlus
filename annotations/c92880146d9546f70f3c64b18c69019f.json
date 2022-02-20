@@ -1,0 +1,47 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Kalligraphie",
+      "@type" : "oa:Tag",
+      "chars" : "Kalligraphie"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "lateinisch",
+      "@type" : "oa:Tag",
+      "chars" : "lateinisch"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Kalligraphie &lt;<a style=\"text-decoration: inherit; border-bottom: 1px dotted #005ebd; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\" title=\"Kalligraphie &lt;GND&gt;\" href=\"https://portal.dnb.de/opac.htm?method=simpleSearch&amp;cqlMode=true&amp;query=nid%3D4073168-6\" target=\"_blank\" rel=\"noopener\">GND<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">&gt;: [Metiri se quemque decet priusque iuuari] / Laudibus, alterius nec bona ferre sibi. ([Jeder messe sich selbst und erfreu sich am eigenen Lobspruch,] / doch eines andern Talent, schreib er sich selbst nicht zugut.)",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Kalligraphie &lt;</span><a style=\"text-decoration: inherit; border-bottom: 1px dotted #005ebd; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\" title=\"Kalligraphie &lt;GND&gt;\" href=\"https://portal.dnb.de/opac.htm?method=simpleSearch&amp;cqlMode=true&amp;query=nid%3D4073168-6\" target=\"_blank\" rel=\"noopener\">GND</a><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">&gt;: [Metiri se quemque decet priusque iuuari] / Laudibus, alterius nec bona ferre sibi. ([Jeder messe sich selbst und erfreu sich am eigenen Lobspruch,] / doch eines andern Talent, schreib er sich selbst nicht zugut.)</span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/99589779",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-20T14:56:26",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645368986715",
+    "dcterms:modified" : "2022-02-20T14:56:26",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://www.e-manuscripta.ch/bau/i3f/v20/3310314/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=355,145,3087,781"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M355.2064,144.66598h1543.42824v0h1543.42824v390.66608v390.66608h-1543.42824h-1543.42824v-390.66608z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_4fd1b766-d921-467d-be2a-4ff179bfcb0b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffffff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://www.e-manuscripta.ch/bau/i3f/v20/3310314/canvas/3310369"
+    } ]
+  } ],
+  "@id" : "https://norabj.github.io/BaslerEdelsteinPlus/annotations/c92880146d9546f70f3c64b18c69019f.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
