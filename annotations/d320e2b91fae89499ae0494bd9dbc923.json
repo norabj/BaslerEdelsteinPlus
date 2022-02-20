@@ -1,0 +1,47 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Kalligraphie &lt;<a title=\"Kalligraphie &lt;GND&gt;\" href=\"https://portal.dnb.de/opac.htm?method=simpleSearch&amp;cqlMode=true&amp;query=nid%3D4073168-6\" target=\"_blank\" rel=\"noopener\">GND&gt;: Sepe fidem falso mendicat in hercia teste, / Sepe dolet pietas criminis arte capi. (M&uuml;ssiggang bettelt oft um Vertrauen mit unechtem Zeugnis; / Redlichkeit schmerzt es oft, dass sie sich einnehmen l&auml;sst.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Kalligraphie &lt;<a title=\"Kalligraphie &lt;GND&gt;\" href=\"https://portal.dnb.de/opac.htm?method=simpleSearch&amp;cqlMode=true&amp;query=nid%3D4073168-6\" target=\"_blank\" rel=\"noopener\">GND</a>&gt;: Sepe fidem falso mendicat in hercia teste, / Sepe dolet pietas criminis arte capi. (M&uuml;ssiggang bettelt oft um Vertrauen mit unechtem Zeugnis; / Redlichkeit schmerzt es oft, dass sie sich einnehmen l&auml;sst.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Kalligraphie",
+      "@type" : "oa:Tag",
+      "chars" : "Kalligraphie"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "lateinisch",
+      "@type" : "oa:Tag",
+      "chars" : "lateinisch"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/99589779",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-02-20T13:41:31",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645364491187",
+    "dcterms:modified" : "2022-02-20T13:42:27",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://www.e-manuscripta.ch/bau/i3f/v20/3310314/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=174,1951,2886,492"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M174.33924,1950.77972h1442.85909v0h1442.85909v245.89591v245.89591h-1442.85909h-1442.85909v-245.89591z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,1,1],&quot;editable&quot;:true}\" id=\"rectangle_b4869de0-53f9-4bdf-b69e-689129781b5a\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffffff\" stroke-width=\"33.01967\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://www.e-manuscripta.ch/bau/i3f/v20/3310314/canvas/3310415"
+    } ]
+  } ],
+  "@id" : "https://norabj.github.io/BaslerEdelsteinPlus/annotations/d320e2b91fae89499ae0494bd9dbc923.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
