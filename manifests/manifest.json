@@ -492,12 +492,7 @@
       } ],
       "label" : "[3]",
       "@id" : "https://www.e-manuscripta.ch/bau/i3f/v20/3310314/canvas/3310321",
-      "@type" : "sc:Canvas",
-      "otherContent" : [ {
-        "@type" : "sc:AnnotationList",
-        "@id" : "https://norabj.github.io/BaslerEdelsteinPlus/annotations/b2029fbba5911c7390c162d5645bf581.json",
-        "label" : "Annotations for canvas [3]"
-      } ]
+      "@type" : "sc:Canvas"
     }, {
       "height" : 5493,
       "width" : 4218,
@@ -545,12 +540,7 @@
       } ],
       "label" : "[5]",
       "@id" : "https://www.e-manuscripta.ch/bau/i3f/v20/3310314/canvas/3310323",
-      "@type" : "sc:Canvas",
-      "otherContent" : [ {
-        "@type" : "sc:AnnotationList",
-        "@id" : "https://norabj.github.io/BaslerEdelsteinPlus/annotations/f6c4daba44d4f6f0fdc703747684c597.json.json",
-        "label" : "Annotations for canvas [5]"
-      } ]
+      "@type" : "sc:Canvas"
     }, {
       "height" : 5530,
       "width" : 4219,
@@ -574,12 +564,7 @@
       } ],
       "label" : "[6]",
       "@id" : "https://www.e-manuscripta.ch/bau/i3f/v20/3310314/canvas/3310324",
-      "@type" : "sc:Canvas",
-      "otherContent" : [ {
-        "@type" : "sc:AnnotationList",
-        "@id" : "https://norabj.github.io/BaslerEdelsteinPlus/annotations/c3c12c1a80df3602156674aa731ba5b8.json",
-        "label" : "Annotations for canvas [6]"
-      } ]
+      "@type" : "sc:Canvas"
     }, {
       "height" : 5371,
       "width" : 4112,
@@ -603,12 +588,7 @@
       } ],
       "label" : "[7]",
       "@id" : "https://www.e-manuscripta.ch/bau/i3f/v20/3310314/canvas/3310325",
-      "@type" : "sc:Canvas",
-      "otherContent" : [ {
-        "@type" : "sc:AnnotationList",
-        "@id" : "https://norabj.github.io/BaslerEdelsteinPlus/annotations/b6efa3814741717d2a182449be833a90.json",
-        "label" : "Annotations for canvas [7]"
-      } ]
+      "@type" : "sc:Canvas"
     }, {
       "height" : 5510,
       "width" : 4254,
@@ -680,7 +660,12 @@
       } ],
       "label" : "[10]",
       "@id" : "https://www.e-manuscripta.ch/bau/i3f/v20/3310314/canvas/3310328",
-      "@type" : "sc:Canvas"
+      "@type" : "sc:Canvas",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://norabj.github.io/BaslerEdelsteinPlus/annotations/cd508f5d4ed3735af673dfc000299274.json",
+        "label" : "Annotations for canvas [10]"
+      } ]
     }, {
       "height" : 5413,
       "width" : 4139,
@@ -704,7 +689,12 @@
       } ],
       "label" : "[11]",
       "@id" : "https://www.e-manuscripta.ch/bau/i3f/v20/3310314/canvas/3310329",
-      "@type" : "sc:Canvas"
+      "@type" : "sc:Canvas",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://norabj.github.io/BaslerEdelsteinPlus/annotations/fd04044151047574796d9832d453d5c8.json",
+        "label" : "Annotations for canvas [11]"
+      } ]
     }, {
       "height" : 5419,
       "width" : 4149,
@@ -728,7 +718,12 @@
       } ],
       "label" : "[12]",
       "@id" : "https://www.e-manuscripta.ch/bau/i3f/v20/3310314/canvas/3310330",
-      "@type" : "sc:Canvas"
+      "@type" : "sc:Canvas",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://norabj.github.io/BaslerEdelsteinPlus/annotations/6231a3586d5f98919fccdb17b377221b.json",
+        "label" : "Annotations for canvas [12]"
+      } ]
     }, {
       "height" : 5524,
       "width" : 4274,
@@ -1208,7 +1203,12 @@
       } ],
       "label" : "[32]",
       "@id" : "https://www.e-manuscripta.ch/bau/i3f/v20/3310314/canvas/3310350",
-      "@type" : "sc:Canvas"
+      "@type" : "sc:Canvas",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://norabj.github.io/BaslerEdelsteinPlus/annotations/6bf7d9d7030d440d84dba296f75a047a.json",
+        "label" : "Annotations for canvas [32]"
+      } ]
     }, {
       "height" : 5357,
       "width" : 4105,
@@ -1232,7 +1232,12 @@
       } ],
       "label" : "[33]",
       "@id" : "https://www.e-manuscripta.ch/bau/i3f/v20/3310314/canvas/3310351",
-      "@type" : "sc:Canvas"
+      "@type" : "sc:Canvas",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://norabj.github.io/BaslerEdelsteinPlus/annotations/17192b6a9e9e40096c7a6d6ad4390067.json",
+        "label" : "Annotations for canvas [33]"
+      } ]
     }, {
       "height" : 5504,
       "width" : 4194,
@@ -1616,7 +1621,12 @@
       } ],
       "label" : "[49]",
       "@id" : "https://www.e-manuscripta.ch/bau/i3f/v20/3310314/canvas/3310367",
-      "@type" : "sc:Canvas"
+      "@type" : "sc:Canvas",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://norabj.github.io/BaslerEdelsteinPlus/annotations/f8848a66a317ac4b7157fb59464bb7c4.json",
+        "label" : "Annotations for canvas [49]"
+      } ]
     }, {
       "height" : 5331,
       "width" : 4097,
@@ -1640,7 +1650,12 @@
       } ],
       "label" : "[50]",
       "@id" : "https://www.e-manuscripta.ch/bau/i3f/v20/3310314/canvas/3310368",
-      "@type" : "sc:Canvas"
+      "@type" : "sc:Canvas",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://norabj.github.io/BaslerEdelsteinPlus/annotations/54a1013f3ef8d03cfe6663bc59e83e28.json",
+        "label" : "Annotations for canvas [50]"
+      } ]
     }, {
       "height" : 5399,
       "width" : 4158,
@@ -1664,7 +1679,12 @@
       } ],
       "label" : "[51]",
       "@id" : "https://www.e-manuscripta.ch/bau/i3f/v20/3310314/canvas/3310369",
-      "@type" : "sc:Canvas"
+      "@type" : "sc:Canvas",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://norabj.github.io/BaslerEdelsteinPlus/annotations/c92880146d9546f70f3c64b18c69019f.json",
+        "label" : "Annotations for canvas [51]"
+      } ]
     }, {
       "height" : 5409,
       "width" : 4166,
@@ -2336,7 +2356,12 @@
       } ],
       "label" : "[79]",
       "@id" : "https://www.e-manuscripta.ch/bau/i3f/v20/3310314/canvas/3310397",
-      "@type" : "sc:Canvas"
+      "@type" : "sc:Canvas",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://norabj.github.io/BaslerEdelsteinPlus/annotations/a7f8cd87a9ad32322f613160c6f151e8.json",
+        "label" : "Annotations for canvas [79]"
+      } ]
     }, {
       "height" : 5400,
       "width" : 4146,
@@ -2384,7 +2409,12 @@
       } ],
       "label" : "[81]",
       "@id" : "https://www.e-manuscripta.ch/bau/i3f/v20/3310314/canvas/3310399",
-      "@type" : "sc:Canvas"
+      "@type" : "sc:Canvas",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://norabj.github.io/BaslerEdelsteinPlus/annotations/f31a9ac8c18a7433930aa1a537a7dca9.json",
+        "label" : "Annotations for canvas [81]"
+      } ]
     }, {
       "height" : 5424,
       "width" : 4134,
@@ -2600,7 +2630,12 @@
       } ],
       "label" : "[90]",
       "@id" : "https://www.e-manuscripta.ch/bau/i3f/v20/3310314/canvas/3310408",
-      "@type" : "sc:Canvas"
+      "@type" : "sc:Canvas",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://norabj.github.io/BaslerEdelsteinPlus/annotations/48abfdf8441324fd38a5b0b9204c1f9a.json",
+        "label" : "Annotations for canvas [90]"
+      } ]
     }, {
       "height" : 5413,
       "width" : 4155,
@@ -2624,7 +2659,12 @@
       } ],
       "label" : "[91]",
       "@id" : "https://www.e-manuscripta.ch/bau/i3f/v20/3310314/canvas/3310409",
-      "@type" : "sc:Canvas"
+      "@type" : "sc:Canvas",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://norabj.github.io/BaslerEdelsteinPlus/annotations/4750e2033fa424133f02b5c62b87e5aa.json",
+        "label" : "Annotations for canvas [91]"
+      } ]
     }, {
       "height" : 5510,
       "width" : 4244,
@@ -2744,7 +2784,12 @@
       } ],
       "label" : "[96]",
       "@id" : "https://www.e-manuscripta.ch/bau/i3f/v20/3310314/canvas/3310414",
-      "@type" : "sc:Canvas"
+      "@type" : "sc:Canvas",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://norabj.github.io/BaslerEdelsteinPlus/annotations/7b431217cf8f191acdd25f5b6814df18.json",
+        "label" : "Annotations for canvas [96]"
+      } ]
     }, {
       "height" : 5411,
       "width" : 4188,
@@ -2768,7 +2813,12 @@
       } ],
       "label" : "[97]",
       "@id" : "https://www.e-manuscripta.ch/bau/i3f/v20/3310314/canvas/3310415",
-      "@type" : "sc:Canvas"
+      "@type" : "sc:Canvas",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://norabj.github.io/BaslerEdelsteinPlus/annotations/d320e2b91fae89499ae0494bd9dbc923.json",
+        "label" : "Annotations for canvas [97]"
+      } ]
     }, {
       "height" : 5384,
       "width" : 4160,
@@ -2936,7 +2986,12 @@
       } ],
       "label" : "[104]",
       "@id" : "https://www.e-manuscripta.ch/bau/i3f/v20/3310314/canvas/3310422",
-      "@type" : "sc:Canvas"
+      "@type" : "sc:Canvas",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://norabj.github.io/BaslerEdelsteinPlus/annotations/c73bdce129aa920b6d03040becef1d9d.json",
+        "label" : "Annotations for canvas [104]"
+      } ]
     }, {
       "height" : 5454,
       "width" : 4201,
@@ -2960,7 +3015,12 @@
       } ],
       "label" : "[105]",
       "@id" : "https://www.e-manuscripta.ch/bau/i3f/v20/3310314/canvas/3310423",
-      "@type" : "sc:Canvas"
+      "@type" : "sc:Canvas",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://norabj.github.io/BaslerEdelsteinPlus/annotations/3d059d5bae12777b450cc7c13eb09156.json",
+        "label" : "Annotations for canvas [105]"
+      } ]
     }, {
       "height" : 5551,
       "width" : 4284,
@@ -3104,7 +3164,12 @@
       } ],
       "label" : "[111]",
       "@id" : "https://www.e-manuscripta.ch/bau/i3f/v20/3310314/canvas/3310429",
-      "@type" : "sc:Canvas"
+      "@type" : "sc:Canvas",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://norabj.github.io/BaslerEdelsteinPlus/annotations/0684105631887f8211d05529b414a0db.json",
+        "label" : "Annotations for canvas [111]"
+      } ]
     }, {
       "height" : 5421,
       "width" : 4114,
@@ -3128,7 +3193,12 @@
       } ],
       "label" : "[112]",
       "@id" : "https://www.e-manuscripta.ch/bau/i3f/v20/3310314/canvas/3310430",
-      "@type" : "sc:Canvas"
+      "@type" : "sc:Canvas",
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://norabj.github.io/BaslerEdelsteinPlus/annotations/24a3b4d8d807a7964bf17952e6a826b0.json",
+        "label" : "Annotations for canvas [112]"
+      } ]
     }, {
       "height" : 5253,
       "width" : 4012,
