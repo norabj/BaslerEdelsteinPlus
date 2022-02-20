@@ -1,0 +1,47 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Kalligraphie",
+      "@type" : "oa:Tag",
+      "chars" : "Kalligraphie"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "lateinisch",
+      "@type" : "oa:Tag",
+      "chars" : "lateinisch"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Kalligraphie &lt;<a title=\"Kalligraphie &lt;GND&gt;\" href=\"https://portal.dnb.de/opac.htm?method=simpleSearch&amp;cqlMode=true&amp;query=nid%3D4073168-6\" target=\"_blank\" rel=\"noopener\">GND&gt;: Que tibi non velles, alii fecisse caueto, / Uulnera nec facias, que nequis ipse pati. (H&uuml;t&rsquo; dich, andern zu tun, was du nicht selbst willst erfahren; / Wunden f&uuml;ge nicht zu, die du nicht selber ertr&auml;gst.)",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Kalligraphie &lt;<a title=\"Kalligraphie &lt;GND&gt;\" href=\"https://portal.dnb.de/opac.htm?method=simpleSearch&amp;cqlMode=true&amp;query=nid%3D4073168-6\" target=\"_blank\" rel=\"noopener\">GND</a>&gt;: Que tibi non velles, alii fecisse caueto, / Uulnera nec facias, que nequis ipse pati. (H&uuml;t&rsquo; dich, andern zu tun, was du nicht selbst willst erfahren; / Wunden f&uuml;ge nicht zu, die du nicht selber ertr&auml;gst.)</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/99589779",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-02-20T14:30:34",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645367434892",
+    "dcterms:modified" : "2022-02-20T14:30:34",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://www.e-manuscripta.ch/bau/i3f/v20/3310314/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=604,3110,3000,1496"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M604.15973,3110.45782h1500.13201v0h1500.13201v747.85999v747.85999h-1500.13201h-1500.13201v-747.85999z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_5670ea04-f91d-4c9c-b5a0-0e4e9274daf5\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffffff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://www.e-manuscripta.ch/bau/i3f/v20/3310314/canvas/3310330"
+    } ]
+  } ],
+  "@id" : "https://norabj.github.io/BaslerEdelsteinPlus/annotations/6231a3586d5f98919fccdb17b377221b.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
